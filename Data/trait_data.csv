@@ -1,0 +1,85 @@
+unique_ID,Region,gensp,species_code,focal_species,Rep,source,Density,Reproductive,plant_height_mm,dry_weight_leaves_g,dry_weight_shoot_g,dry_weight_total,roots_dry_weight,SLA
+BIDFRO5,South,Bidens frondosa,BIDFRO,BF,5,greenhouse-phylogeny,,yes,331,0.153,0.708,0.861,0.4,250.4
+BIDFRO1,South,Bidens frondosa,BIDFRO,BF,1,greenhouse-phylogeny,,yes,270,0.175,0.452,0.627,0.346,1214.5
+BIDFRO2,South,Bidens frondosa,BIDFRO,BF,2,greenhouse-phylogeny,,yes,320,0.205,0.562,0.767,0.512,1158.8
+BIDFRO3,South,Bidens frondosa,BIDFRO,BF,3,greenhouse-phylogeny,,yes,297,0.207,0.5,0.707,0.502,1321.5
+BIDFRO4,South,Bidens frondosa,BIDFRO,BF,4,greenhouse-phylogeny,,yes,252,0.081,0.514,0.595,0.241,1482.3
+CALCIL1,South,Calandrinia ciliata,CALCIL,CC,1,greenhouse-phylogeny,,no,51,0.036,0.266,0.302,0.208,489.1
+CALCIL2,South,Calandrinia ciliata,CALCIL,CC,2,greenhouse-phylogeny,,no,52,0.036,0.375,0.411,0.253,482.6
+CALCIL3,South,Calandrinia ciliata,CALCIL,CC,3,greenhouse-phylogeny,,no,53,0.031,0.249,0.28,0.212,670.9
+CALCIL4,South,Calandrinia ciliata,CALCIL,CC,4,greenhouse-phylogeny,,no,79,0.018,0.42,0.438,0.284,721.1
+CALCIL5,South,Calandrinia ciliata,CALCIL,CC,5,greenhouse-phylogeny,,no,55,0.019,0.231,0.25,0.177,780.5
+CLAAMO3,South,Clarkia amoena,CLAAMO,CA,3,greenhouse-phylogeny,,no,409,0.094,0.829,0.923,,1280
+CLAAMO4,South,Clarkia amoena,CLAAMO,CA,4,greenhouse-phylogeny,,no,195,0.08,0.733,0.813,,1181.8
+CLAAMO2,South,Clarkia amoena,CLAAMO,CA,2,greenhouse-phylogeny,,no,126,0.076,0.584,0.66,,1370.3
+CLAAMO1,South,Clarkia amoena,CLAAMO,CA,1,greenhouse-phylogeny,,no,297,0.076,0.667,0.743,,1115.7
+CLAPUR3,South,Clarkia purpurea,CLAPUR,CPUR,3,greenhouse-phylogeny,with competition,no,139,0.006,0.05,0.056,,860.4
+CLAPUR1,South,Clarkia purpurea,CLAPUR,CPUR,1,greenhouse-phylogeny,,no,309,0.016,0.264,0.28,0.516,1425.7
+CLAPUR2,South,Clarkia purpurea,CLAPUR,CPUR,2,greenhouse-phylogeny,with competition,no,128,0.025,0.191,0.216,0.727,1276
+CLAPUR4,South,Clarkia purpurea,CLAPUR,CPUR,4,greenhouse-phylogeny,,no,60,0.025,0.217,0.242,0.337,974.3
+CLAPUR5,South,Clarkia purpurea,CLAPUR,CPUR,5,greenhouse-phylogeny,with competition,no,50,0.009,0.073,0.082,,2059.2
+CLAPAR4,South,Claytonia parviflora,CLAPAR,CPAR,4,greenhouse-phylogeny,with competition,yes,115,0.011,0.295,0.306,,1935.8
+CLAPAR5,South,Claytonia parviflora,CLAPAR,CPAR,5,greenhouse-phylogeny,,yes,114,0.023,0.206,0.229,0.338,1621.9
+CLAPAR3,South,Claytonia parviflora,CLAPAR,CPAR,3,greenhouse-phylogeny,,yes,131,0.031,0.278,0.309,0.248,1251.6
+CLAPAR2,South,Claytonia parviflora,CLAPAR,CPAR,2,greenhouse-phylogeny,,yes,112,0.018,0.254,0.272,,1399.8
+COLLOM1,South,Collomia grandiflora,COLLOM,CG,1,greenhouse-phylogeny,,no,40,0.038,0.163,0.201,0.242,868.1
+COLLOM2,South,Collomia grandiflora,COLLOM,CG,2,greenhouse-phylogeny,,no,50,0.05,0.083,0.133,0.117,1120.4
+COLLOM3,South,Collomia grandiflora,COLLOM,CG,3,greenhouse-phylogeny,,no,44,0.033,0.076,0.109,0.123,1119.8
+COLLOM4,South,Collomia grandiflora,COLLOM,CG,4,greenhouse-phylogeny,,no,51,0.049,0.064,0.113,0.111,1102.5
+COLLOM5,South,Collomia grandiflora,COLLOM,CG,5,greenhouse-phylogeny,,no,47,0.045,0.08,0.125,0.127,1118.4
+COLLOM4,North,Collomia_grandiflora_North,COLLOM,CG,4,greenhouse-NS,with NI competition,no,94,0.117,0.917,,,0
+COLLOM5,North,Collomia_grandiflora_North,COLLOM,CG,5,greenhouse-NS,with NI competition,no,118,0.08,0.633,,,0
+COLLOM1,North,Collomia_grandiflora_North,COLLOM,CG,1,greenhouse-NS,,no,91,0.078,0.509,,0.725,981.8
+COLLOM2,North,Collomia_grandiflora_North,COLLOM,CG,2,greenhouse-NS,,no,98,0.071,0.534,,0.717,1193.8
+COLLOM3,North,Collomia_grandiflora_North,COLLOM,CG,3,greenhouse-NS,,no,162,0.079,0.544,,,1207
+EPIDEN1,South,Epilobium densiflorum,EPIDEN,ED,1,greenhouse-phylogeny,,yes,239,0.043,0.361,,0.346,1076.4
+EPIDEN3,South,Epilobium densiflorum,EPIDEN,ED,3,greenhouse-phylogeny,,no,153,0.059,0.277,0.336,0.233,1120.9
+EPIDEN4,South,Epilobium densiflorum,EPIDEN,ED,4,greenhouse-phylogeny,,no,76,0.044,0.148,0.192,0.206,1355.7
+EPIDEN5,South,Epilobium densiflorum,EPIDEN,ED,5,greenhouse-phylogeny,,no,111,0.052,0.19,0.242,0.253,1137.4
+EPIDEN2,South,Epilobium densiflorum,EPIDEN,ED,2,greenhouse-phylogeny,,no,77,0.048,0.142,0.19,0.191,1294.7
+GILCAP5,South,Gilia capitata,GILCAP,GC,5,greenhouse-phylogeny,,no,71,0.094,0.233,0.327,0.606,1483
+GILCAP2,South,Gilia capitata,GILCAP,GC,2,greenhouse-phylogeny,,no,66,0.06,0.264,0.324,0.257,1347
+GILCAP3,South,Gilia capitata,GILCAP,GC,3,greenhouse-phylogeny,,no,70,0.076,0.337,0.413,0.565,1144.1
+GILCAP4,South,Gilia capitata,GILCAP,GC,4,greenhouse-phylogeny,,no,62,0.064,0.093,0.157,0.185,916.7
+GILCAP1,South,Gilia capitata,GILCAP,GC,1,greenhouse-phylogeny,,no,71,0.087,0.241,0.328,0.236,1134
+GILCAP4,North,Gilia_capitata_North,GILCAP,GC,4,greenhouse_NS,with competition,yes,784,0.108,1.426,,,0
+GILCAP5,North,Gilia_capitata_North,GILCAP,GC,5,greenhouse_NS,with competition,yes,215,0.062,0.664,,,0
+GILCAP1,North,Gilia_capitata_North,GILCAP,GC,1,greenhouse-NS,,yes,201,0.073,0.624,,,1122.6
+GILCAP2,North,Gilia_capitata_North,GILCAP,GC,2,greenhouse-NS,,no,110,0.088,0.441,,,1141.9
+GILCAP3,North,Gilia_capitata_North,GILCAP,GC,3,greenhouse-NS,with competition,no,101,0.07,0.382,,,1066.6
+MADGLO1,South,Madia glomerata,MADGLO,MGLO,1,greenhouse-phylogeny,,no,85,0.026,0.06,0.086,0.087,1250
+MADGLO2,South,Madia glomerata,MADGLO,MGLO,2,greenhouse-phylogeny,,no,141,0.05,0.178,0.228,0.153,1303
+MADGLO4,South,Madia glomerata,MADGLO,MGLO,4,greenhouse-phylogeny,,no,150,0.072,0.306,0.378,0.279,1104.7
+MADGLO5,South,Madia glomerata,MADGLO,MGLO,5,greenhouse-phylogeny,,no,151,0.061,0.255,0.316,0.256,1296.5
+MADGLO3,South,Madia glomerata,MADGLO,MGLO,3,greenhouse-phylogeny,,no,153,0.039,0.233,0.272,0.216,1148.9
+MICGRA4,South,Microsteris gracilis,MICGRA,MGRA,4,greenhouse-phylogeny,,no,151,0.019,0.148,0.167,0.332,1143.4
+MICGRA5,South,Microsteris gracilis,MICGRA,MGRA,5,greenhouse-phylogeny,,no,150,0.028,0.204,0.232,0.671,997.2
+MICGRA1,South,Microsteris gracilis,MICGRA,MGRA,1,greenhouse-phylogeny,with competition,no,51,0.021,0.117,0.138,,1148.7
+MICGRA2,South,Microsteris gracilis,MICGRA,MGRA,2,greenhouse-phylogeny,with competition,no,50,0.025,0.134,0.159,,860.9
+MICGRA3,South,Microsteris gracilis,MICGRA,MGRA,3,greenhouse-phylogeny,,no,46,0.037,0.119,0.156,0.47,962.1
+NAVINT3,South,Navarretia intertexta,NAVINT,NI,3,greenhouse-phylogeny,,yes,237,0.054,1.78,,0.686,841.3
+NAVINT4,South,Navarretia intertexta,NAVINT,NI,4,greenhouse-phylogeny,,yes,194,0.035,1.085,,0.43,1052.2
+NAVINT5,South,Navarretia intertexta,NAVINT,NI,5,greenhouse-phylogeny,,yes,151,0.063,1.395,,0.666,740.6
+NAVINT2,South,Navarretia intertexta,NAVINT,NI,2,greenhouse-phylogeny,,yes,201,0.071,1.393,1.464,0.79,846.4
+NAVINT1,South,Navarretia intertexta,NAVINT,NI,1,greenhouse-phylogeny,,yes,102,0.039,0.268,0.307,0.279,1143.9
+NAVSQU1,South,Navarretia squarrosa,NAVSQU,NS,1,greenhouse-phylogeny,,no,135,0.078,0.323,0.401,0.277,966.3
+NAVSQU2,South,Navarretia squarrosa,NAVSQU,NS,2,greenhouse-phylogeny,,no,82,0.068,0.248,0.316,0.27,857.9
+NAVSQU3,South,Navarretia squarrosa,NAVSQU,NS,3,greenhouse-phylogeny,,no,91,0.073,0.304,0.377,0.236,950.7
+NAVSQU4,South,Navarretia squarrosa,NAVSQU,NS,4,greenhouse-phylogeny,,no,64,0.042,0.082,0.124,0.062,1220.3
+NAVSQU5,South,Navarretia squarrosa,NAVSQU,NS,5,greenhouse-phylogeny,,no,56,0.037,0.097,0.134,0.079,1182.5
+PLAFIG4,South,Plagiobothrys figuratus,PLAFIG,PF,4,greenhouse-phylogeny,,no,80,0.044,0.151,0.195,0.175,966.3
+PLAFIG5,South,Plagiobothrys figuratus,PLAFIG,PF,5,greenhouse-phylogeny,,no,73,0.032,0.21,0.242,0.146,1268
+PLAFIG2,South,Plagiobothrys figuratus,PLAFIG,PF,2,greenhouse-phylogeny,,no,85,0.032,0.1,0.132,0.109,1065.7
+PLAFIG1,South,Plagiobothrys figuratus,PLAFIG,PF,1,greenhouse-phylogeny,,no,84,0.047,0.268,0.315,0.219,894
+PLAFIG3,South,Plagiobothrys figuratus,PLAFIG,PF,3,greenhouse-phylogeny,,no,74,0.024,0.076,0.1,,1535.1
+PLECON6,South,Plectritis congesta,PLECON,PC,6,greenhouse-phylogeny,with competition,yes,185,0.018,0.106,0.124,,1507.3
+PLECON4,South,Plectritis congesta,PLECON,PC,4,greenhouse-phylogeny,,yes,338,0.061,0.408,0.469,0.297,1590.6
+PLECON5,South,Plectritis congesta,PLECON,PC,5,greenhouse-phylogeny,,yes,53,0.031,0.134,0.165,0.24,1672.6
+PLECON2,South,Plectritis congesta,PLECON,PC,2,greenhouse-phylogeny,with competition,yes,117,0.008,0.034,0.042,,2462.4
+PLECON3,South,Plectritis congesta,PLECON,PC,3,greenhouse-phylogeny,with competition,yes,186,0.027,0.122,0.149,,1649
+PLECON1,South,Plectritis congesta,PLECON,PC,1,greenhouse-phylogeny,,yes,91,0.067,0.184,0.251,0.345,1515.6
+PLECON4,North,Plectritis congesta_N,PLECON,PC,4,greenhouse-NS,with COLLOM competition,yes,449,0.112,0.737,0.849,,0
+PLECON5,North,Plectritis congesta_N,PLECON,PC,5,greenhouse-NS,with COLLOM competition,yes,335,0.109,0.471,0.58,,0
+PLECON1,North,Plectritis congesta_N,PLECON,PC,1,greenhouse-NS,,yes,334,0.102,0.718,0.82,0.295,2024.1
+PLECON2,North,Plectritis congesta_N,PLECON,PC,2,greenhouse-NS,,yes,347,0.118,0.423,0.541,0.267,1603.3
+PLECON3,North,Plectritis congesta_N,PLECON,PC,3,greenhouse-NS,,yes,272,0.137,0.604,0.741,0.51,2224
